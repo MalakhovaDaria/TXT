@@ -1,1 +1,5 @@
-
+type: bug
+priority: hight
+sprint: A1
+summary: the send button on Feedback panel doesn't work corrently
+description: when clicking on the button, an incorrect recuest is sent to the server
