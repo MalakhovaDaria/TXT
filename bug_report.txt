@@ -3,6 +3,6 @@ id: 5264
 priority: minor
 sprint: A1
 summary: the background does not change. on the " to buy" button. on the "shopping cart" page. on hover
-spep to reproduce: open the page https://www.wildberries.ru/lk/basket. hover the cursor over "to buy
+spep to reproduce: open the page https://www.wildberries.ru/lk/basket. hover the cursor over "to buy"
 result: the background of the button does not change
-expected_result: background of the button changes on #004783
+expected result: background of the button changes on #004783
